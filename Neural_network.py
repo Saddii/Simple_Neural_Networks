@@ -1,4 +1,3 @@
-from a import get_mnist
 import numpy as np
 from matplotlib import pyplot
 import pickle
